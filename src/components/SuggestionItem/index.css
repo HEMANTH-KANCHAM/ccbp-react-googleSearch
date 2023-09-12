@@ -1,0 +1,16 @@
+.suggestion-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px;
+}
+.suggestion-text {
+  margin: 0;
+  font-size: 18px;
+  color: #475569;
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+}
